@@ -1,0 +1,7 @@
+{
+    "main": "flow.json",
+    "scripts":
+    {
+        "start": "node-red -v --userDir=\"./\" flow.json"
+    }
+}
